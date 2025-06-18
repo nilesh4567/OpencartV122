@@ -1,0 +1,40 @@
+2025-06-18 12:09:45 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 12:09:45 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 12:09:46 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 12:09:46 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 12:09:47 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
+2025-06-18 12:09:48 ERROR TC_001_AccountRegistrationTest:41 - Test failed
+2025-06-18 12:09:48 INFO  TC_001_AccountRegistrationTest:51 - ***********Finished_TC_001_AccountRegistrationTest**************
+2025-06-18 12:12:37 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 12:12:37 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 12:12:38 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 12:12:38 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 12:12:40 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
+2025-06-18 12:12:40 ERROR TC_001_AccountRegistrationTest:41 - Test failed
+2025-06-18 12:12:40 INFO  TC_001_AccountRegistrationTest:51 - ***********Finished_TC_001_AccountRegistrationTest**************
+2025-06-18 12:13:31 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 12:13:32 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 12:13:33 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 12:13:33 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 12:13:35 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
+2025-06-18 12:13:35 ERROR TC_001_AccountRegistrationTest:41 - Test failed
+2025-06-18 12:13:35 INFO  TC_001_AccountRegistrationTest:51 - ***********Finished_TC_001_AccountRegistrationTest**************
+2025-06-18 12:30:30 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 12:30:30 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 12:30:31 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 12:30:31 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 12:30:33 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
+2025-06-18 12:30:33 ERROR TC_001_AccountRegistrationTest:41 - Test failed
+2025-06-18 12:30:33 INFO  TC_001_AccountRegistrationTest:51 - ***********Finished_TC_001_AccountRegistrationTest**************
+2025-06-18 17:26:13 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 17:26:14 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 17:26:14 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 17:26:14 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 17:26:16 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
+2025-06-18 17:26:16 ERROR TC_001_AccountRegistrationTest:41 - Test failed
+2025-06-18 17:26:16 INFO  TC_001_AccountRegistrationTest:51 - ***********Finished_TC_001_AccountRegistrationTest**************
+2025-06-18 17:36:42 INFO  TC_001_AccountRegistrationTest:13 - ***********Starting_TC_001_AccountRegistrationTest**************
+2025-06-18 17:36:42 INFO  TC_001_AccountRegistrationTest:17 - clicked on myaccount link
+2025-06-18 17:36:43 INFO  TC_001_AccountRegistrationTest:19 - clicked on register link
+2025-06-18 17:36:43 INFO  TC_001_AccountRegistrationTest:21 - cproviding customer details
+2025-06-18 17:36:44 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message
